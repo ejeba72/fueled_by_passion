@@ -29,3 +29,6 @@ remote add \<name\> \<url\>\" command, if you try to use the \"git
 push\" command before connecting the\... These are examples of how
 terminal prompt can serve as a mnemonic even if you know a step to take
 but cannot remember the command for it.
+
+## Resources
+- https://docs.github.com/en/get-started/using-git/about-git

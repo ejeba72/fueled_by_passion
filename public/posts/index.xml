@@ -6,8 +6,29 @@
     <description>Recent content in Posts on fueledByPassion</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 26 Aug 2025 16:26:40 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 27 Aug 2025 09:18:25 +0200</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>TOML</title>
+      <link>http://localhost:1313/posts/toml/</link>
+      <pubDate>Wed, 27 Aug 2025 09:18:25 +0200</pubDate>
+      <guid>http://localhost:1313/posts/toml/</guid>
+      <description>&lt;h2 id=&#34;resources&#34;&gt;Resources:&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://toml.io/en/&#34;&gt;https://toml.io/en/&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Hugo</title>
+      <link>http://localhost:1313/posts/hugo/</link>
+      <pubDate>Wed, 27 Aug 2025 09:06:24 +0200</pubDate>
+      <guid>http://localhost:1313/posts/hugo/</guid>
+      <description>&lt;h2 id=&#34;resources&#34;&gt;Resources:&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://gohugo.io/getting-started/quick-start/&#34;&gt;https://gohugo.io/getting-started/quick-start/&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Cloudflare</title>
+      <link>http://localhost:1313/posts/cloudflare/</link>
+      <pubDate>Wed, 27 Aug 2025 09:03:32 +0200</pubDate>
+      <guid>http://localhost:1313/posts/cloudflare/</guid>
+      <description>&lt;h2 id=&#34;resources&#34;&gt;Resources&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://developers.cloudflare.com/pages/framework-guides/deploy-anything/&#34;&gt;https://developers.cloudflare.com/pages/framework-guides/deploy-anything/&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
     <item>
       <title>Git</title>
       <link>http://localhost:1313/posts/git/</link>
