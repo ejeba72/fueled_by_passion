@@ -1,6 +1,6 @@
 +++
 date = '2025-08-26T16:26:40+02:00'
-draft = true
+draft = false
 title = 'Git'
 +++
 
