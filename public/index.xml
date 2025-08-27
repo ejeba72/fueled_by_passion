@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>fueledByPassion</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on fueledByPassion</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 26 Aug 2025 23:34:21 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Pandoc</title>
+      <link>http://localhost:1313/posts/pandoc/</link>
+      <pubDate>Tue, 26 Aug 2025 23:34:21 +0200</pubDate>
+      <guid>http://localhost:1313/posts/pandoc/</guid>
+      <description>&lt;h1 id=&#34;commands&#34;&gt;commands&lt;/h1&gt;&#xA;&lt;h2 id=&#34;pandoc-source_filetex--f-tex--t-markdown--o-destination_filemd&#34;&gt;&lt;code&gt;pandoc source_file.tex -f tex -t markdown -o destination_file.md&lt;/code&gt;&lt;/h2&gt;</description>
+    </item>
+    <item>
+      <title>Git</title>
+      <link>http://localhost:1313/posts/git/</link>
+      <pubDate>Tue, 26 Aug 2025 16:26:40 +0200</pubDate>
+      <guid>http://localhost:1313/posts/git/</guid>
+      <description>&lt;h1 id=&#34;git-commands-worth-memorizing&#34;&gt;Git Commands Worth Memorizing&lt;/h1&gt;&#xA;&lt;p&gt;The following git commands are worth remembering or memorizing.&lt;/p&gt;&#xA;&lt;h2 id=&#34;git-init&#34;&gt;git init&lt;/h2&gt;&#xA;&lt;p&gt;Use to initialize git in a directory or project or local repo.&lt;/p&gt;&#xA;&lt;h2 id=&#34;git-status&#34;&gt;git status&lt;/h2&gt;&#xA;&lt;h2 id=&#34;git-commit&#34;&gt;git commit&lt;/h2&gt;&#xA;&lt;h2 id=&#34;git-push&#34;&gt;git push&lt;/h2&gt;&#xA;&lt;h1 id=&#34;remembering-git-commands&#34;&gt;Remembering Git Commands&lt;/h1&gt;&#xA;&lt;p&gt;It is not necessary to memorize other git commands. Apart from being&#xA;able to check them up from various sources or resources, you can get&#xA;direction or hints from the terminal prompt. For instance, you get a&#xA;prompt to use the &amp;quot;git add&amp;quot; command if if you skipped it when using&#xA;the &amp;quot;git commit&amp;quot; command. Also, you get a a prompt to use the &amp;quot;git&#xA;remote add &amp;lt;name&amp;gt; &amp;lt;url&amp;gt;&amp;quot; command, if you try to use the &amp;quot;git&#xA;push&amp;quot; command before connecting the... These are examples of how&#xA;terminal prompt can serve as a mnemonic even if you know a step to take&#xA;but cannot remember the command for it.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
