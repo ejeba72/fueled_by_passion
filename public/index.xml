@@ -6,15 +6,8 @@
     <description>Recent content on fueledByPassion</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 26 Aug 2025 23:34:21 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 26 Aug 2025 16:26:40 +0200</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Pandoc</title>
-      <link>http://localhost:1313/posts/pandoc/</link>
-      <pubDate>Tue, 26 Aug 2025 23:34:21 +0200</pubDate>
-      <guid>http://localhost:1313/posts/pandoc/</guid>
-      <description>&lt;h1 id=&#34;commands&#34;&gt;commands&lt;/h1&gt;&#xA;&lt;h2 id=&#34;pandoc-source_filetex--f-tex--t-markdown--o-destination_filemd&#34;&gt;&lt;code&gt;pandoc source_file.tex -f tex -t markdown -o destination_file.md&lt;/code&gt;&lt;/h2&gt;</description>
-    </item>
     <item>
       <title>Git</title>
       <link>http://localhost:1313/posts/git/</link>

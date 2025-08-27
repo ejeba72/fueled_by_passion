@@ -1,6 +1,6 @@
 +++
 date = '2025-08-26T23:34:21+02:00'
-draft = true
+draft = false
 title = 'Pandoc'
 +++
 # commands
